@@ -6,9 +6,9 @@ This is a simple app where you can add or remove tasks, and complete them, each 
 
 **Table of content**
 
+- [How to run the app](#how-to-run-the-app)
 - [Project structure](#project-structure)
 - [Possible improvements](#possible-improvements)
-
   - [Folder structure improvement](#folder-structure-improvement)
   - [Navigation improvement](#navigation-improvement)
   - [State management improvement](#state-management-improvement)
@@ -16,6 +16,14 @@ This is a simple app where you can add or remove tasks, and complete them, each 
 
 <br/>
 <br/>
+
+## How to run the app
+
+First we need to install the dependencies by running `yarn install`
+
+- Run for android: `yarn android`
+- Run for iOS: `yarn ios`
+- Run for web: `yarn web`
 
 ## Project structure
 
